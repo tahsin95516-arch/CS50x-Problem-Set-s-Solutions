@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It takes much longer time then the booth sortin system in random & reversed .txt file but slidly less time then sort3(selection) system.
+
+sort2 uses: Merge Sort
+
+How do you know?: Compare to other sorting file this is the fastest in every .txt file and time.
+
+sort3 uses: Selection Sort
+
+How do you know?: It takes roughly same time on sorting in  every .txt file and also faster then the sort1(Bubble sort) system in random & reversed .txt .
